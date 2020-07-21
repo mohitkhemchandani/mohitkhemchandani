@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mohitkhemchandani?label=Follow&style=social)](https://github.com/mohitkhemchandani/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Mohit Khemchandani, Final Year Student at 👨‍💻 Poornima University Pursuing B.Tech. My CS interests currently lie in Cybersecurity and Information Security.
+I'm Mohit Khemchandani, Final Year Student at 👨‍💻 Poornima University Pursuing B.Tech. My CS interests currently lie in **Cybersecurity** and **Information Security**.
 
 # 💻 Some Other Skills:
 - VAPT
