@@ -21,5 +21,5 @@ I'm Mohit Khemchandani, Final Year Student at 👨‍💻 Poornima University Pu
 - WAPT
 
 ---
-![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitkhemchandnai&show_icons=true)
+![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitkhemchandani&show_icons=true)
 
