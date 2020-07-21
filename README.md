@@ -1,16 +1,22 @@
-### Hi there 👋
+# Mohit Khemchandani 👨‍💻
 
-<!--
-**mohitkhemchandani/mohitkhemchandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's Connect -
+[![Twitter Badge](https://img.shields.io/badge/-@mohitkchandani-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mohitkchandani)](https://twitter.com/mohitkchandani) [![Linkedin Badge](https://img.shields.io/badge/-mohitkhemchandani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohitkhemchandani/)](https://www.linkedin.com/in/mohitkhemchandani) [![Medium Badge](https://img.shields.io/badge/-@_cryptonic007-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@_cryptonic007/)](https://medium.com/@_cryptonic007/)
+[![GitHub followers](https://img.shields.io/github/followers/smohitkhemchandani?label=Follow&style=social)](https://github.com/mohitkhemchandani/?tab=follow)
+---
+## Hi there 👋,           
+I'm Mohit Khemchandani, Final Year Student at 👨‍💻 Poornima University Pursuing B.Tech. My CS interests currently lie in Cybersecurity and Information Security.
 
-Here are some ideas to get you started:
+# Some Other Skills:
+- VAPT
+- Networking
+- Cloud
+- Linux
+- Web Application Penetration Testing
+- CTF Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I do ?
+- Bug Hunting
+- VAPT
+- WAPT
+
