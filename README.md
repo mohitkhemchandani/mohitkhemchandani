@@ -22,6 +22,3 @@ I'm Mohit Khemchandani, Final Year Student at 👨‍💻 Poornima University Pu
 
 ---
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitkhemchandani&show_icons=true)
-
-## Visitors
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mohitkchandani)
